@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+}
+
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.quiz-container {
+  margin-top: 20px;
+}
+
+.question-container {
+  margin-bottom: 20px;
+}
+
+.options-container button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.result-container {
+  margin-top: 20px;
+}
+
+.result-container button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
